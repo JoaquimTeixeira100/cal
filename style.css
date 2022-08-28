@@ -1,0 +1,748 @@
+* {
+
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+
+header {
+
+    background-color: rgb(95, 42, 124);
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+img {
+
+    width: 300px;
+
+}
+
+.ok {
+
+    background-color: white;
+    padding: 10px;
+    max-width: 200px;
+    width: 200px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 25px;
+    font-family: 'Ibarra Real Nova', serif;
+
+}
+
+#botoesheader {
+
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+#linksDoCabecalho, #linksDoCabecalhoo {
+
+    margin-right: 20px;
+    margin-left: 20px;
+    color: rgb(95, 42, 124);
+
+}
+
+#linksDoCabecalho:hover, #linksDoCabecalhoo:hover {
+
+    opacity: 0.7;
+    transition: 1s;
+
+}
+
+article {
+
+    max-width: 600px;
+    width: 600px;
+
+}
+
+article {
+
+    border-color: rgb(95, 42, 124);
+    border-width: 50px;
+
+}
+
+#cal123456 {
+
+    width: 555px;
+
+}
+
+aside {
+
+    max-width: 800px;
+    width: 800px;
+    height: 350px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+}
+
+img {
+
+    user-select: none;
+
+}
+
+main {
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    margin-top: 50px;
+
+}
+
+aside {
+
+    margin-left: 50px;
+
+}
+
+article {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+#cal123 {
+
+    width: 600px;
+}
+
+aside {
+
+    text-align: center;
+    background-color: rgb(95, 42, 124)
+
+
+}
+
+
+
+.textosobrenos {
+
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+
+
+
+#ok1 {
+
+    font-family: 'Great Vibes', cursive;
+    font-size: 150px;
+    border: none;
+
+}
+
+#ok2 {
+
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 20px;
+
+}
+
+.ok3 {
+
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+    font-size: 125px;
+
+}
+
+.traço1 {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 50px;
+
+}
+
+.traço1-1 {
+
+    width: 1000px;
+    
+}
+
+#NossosAdolecentes1, #NossosAdolecentes2, #NossosAdolecentes3, #NossosAdolecentes4, #NossosAdolecentes5, #NossosAdolecentes6, #NossosAdolecentes7 {
+
+    border-radius: 100px;
+    margin: 10px;
+
+} 
+
+#NossosAdolecentes11, #NossosAdolecentes22, #NossosAdolecentes33, #NossosAdolecentes44, #NossosAdolecentes55, #NossosAdolecentes66, #NossosAdolecentes77 {
+
+    border-radius: 15px;
+    width: 300px;
+
+} 
+
+#NossosAdolecentes {
+
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 30px;
+
+}
+
+#Eventos {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+#evento1 {
+
+    margin-top: 40px;
+
+}
+
+.eventosimg {
+
+    background-color: rgb(53, 53, 53);
+    color: white;
+    width: 700px;
+    height: 150px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    font-family: 'Great Vibes', cursive;
+
+}
+
+.eventosimgfutura {
+
+    background-color: rgb(95, 42, 124);
+    color: white;
+    width: 700px;
+    height: 300px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    font-family: 'Great Vibes', cursive;
+
+}
+
+.eventosimgfuturaa {
+
+    background-color: rgb(95, 42, 124);
+    color: white;
+    width: 700px;
+    height: 150px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    font-family: 'Great Vibes', cursive;
+    margin-top: 50px;
+
+}
+
+.eventosimgfutura, .eventosimg {
+
+    margin-top: 40px;
+
+}
+
+.encerradostitle {
+
+    color: black;
+    margin-top: 5px;
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 27px;
+
+}
+
+.botãodefotos {
+
+    color: white;
+    background-color: rgb(53, 53, 53);
+    width: 200px;
+    height: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    font-family: 'Ibarra Real Nova', serif;
+    margin-top: 5px;
+
+}
+
+.dadossobreeventofuturo {
+
+    font-family: 'Ibarra Real Nova', serif;
+    color: black;
+    font-size: 20px;
+    line-height: 20px;
+
+}
+
+#dadossobreeventofuturoid {
+
+    margin-top: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+#Lideres {
+
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.Lideresfotosconjunto {
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 50px;
+
+}
+
+.Lideresfotos {
+
+    border-radius: 30px;
+
+}
+
+@keyframes animacaoimg {
+
+    0%, 20%, 60%, 100% {
+
+        -webkit-transform: transleteY(0);
+        transform: translateY(0);
+    
+    }
+
+    40% {
+
+        -webkit-transform: transleteY(-20px);
+        transform: translateY(-20px);
+
+    }
+
+    80% {
+
+        -webkit-transform: transleteY(-10px);
+        transform: translateY(-10px);
+
+    }
+
+}
+
+@keyframes animacaoimg2 {
+
+    0%, 20%, 60%, 100% {
+
+        -webkit-transform: transleteY(0);
+        transform: translateY(0);
+    
+    }
+
+    40% {
+
+        -webkit-transform: transleteY(-10px);
+        transform: translateY(-10px);
+
+    }
+
+    80% {
+
+        -webkit-transform: transleteY(-5px);
+        transform: translateY(-5px);
+
+    }
+
+}
+
+#NossosAdolecentes1:hover {
+
+    animation: animacaoimg 1s;
+
+}
+
+#NossosAdolecentes2:hover {
+
+    animation: animacaoimg 1s;
+
+}
+
+#NossosAdolecentes3:hover {
+
+    animation: animacaoimg 1s;
+
+}
+
+#NossosAdolecentes4:hover {
+
+    animation: animacaoimg 1s;
+
+}
+
+#NossosAdolecentes5:hover {
+
+    animation: animacaoimg 1s;
+
+}
+
+#NossosAdolecentes6:hover {
+
+    animation: animacaoimg 1s;
+
+}
+
+#NossosAdolecentes7:hover {
+
+    animation: animacaoimg 1s;
+
+}
+
+.eventosimg:hover, .eventosimgfutura:hover, .eventosimgfuturaa:hover {
+
+    animation: animacaoimg 1s;
+
+}
+
+aside:hover, article:hover {
+
+    animation: animacaoimg 1s;
+
+}
+
+.botãodefotos:hover {
+
+    opacity: 0.7;
+    transition: 1s;
+    
+}
+
+.Lideresfotosconjunto {
+
+    text-align: center;
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 13px;
+
+}
+
+.titulosdoslideres {
+
+    margin-top: 10px;
+
+}
+
+.Lideresfotos:hover {
+
+    animation: animacaoimg 1s;
+
+}
+
+footer {
+
+    margin-top: 50px;
+    background-color: rgb(95, 42, 124);
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    width: 100%;
+
+}
+
+#timer{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+  
+}
+  
+#days, #hours, #mins, #seconts {
+  
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+  
+}
+  
+#dayscolor, #hourscolor, #minscolor, #secontscolor {
+  
+    background-color: rgb(95, 42, 124);
+    width: 130px;
+    height: 80px;
+    border-radius: 10px;
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 40px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 4px;
+    margin-right: 4px;
+  
+}
+
+#days:hover, #hours:hover, #mins:hover, #seconts:hover {
+  
+    animation: animacaoimg2 1s;
+  
+}
+
+
+#timer2{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+  
+}
+  
+#days2, #hours2, #mins2, #seconts2 {
+  
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+  
+}
+  
+#dayscolor2, #hourscolor2, #minscolor2, #secontscolor2 {
+  
+    background-color: rgb(95, 42, 124);
+    width: 130px;
+    height: 80px;
+    border-radius: 10px;
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 40px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 4px;
+    margin-right: 4px;
+  
+}
+
+#days2:hover, #hours2:hover, #mins2:hover, #seconts2:hover {
+  
+    animation: animacaoimg2 1s;
+  
+}
+
+#mapa {
+
+    border-radius: 15px;
+    user-select: none;
+    padding: 10px;
+    background-color: rgb(95, 42, 124);
+    margin-left: 32px;
+
+}
+
+
+.localdaigreja {
+
+    text-align: center;
+    font-family: 'Ibarra Real Nova', serif;
+    color: black;
+    font-size: 20px;
+    line-height: 20px;
+    margin-top: 5px;
+
+}
+
+#testeok123456 {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+@media (max-width: 1550px) {
+
+    article {
+
+        width: 500px;
+
+    }
+
+    #cal123 {
+
+        width: 500px;
+
+    }
+    
+    aside {
+
+        width: 600px;
+        height: 300px;
+
+    }
+
+    #cal123456 {
+
+        margin-top: 19px;
+        width: 440px;
+
+    }
+
+}
+
+@media (max-width: 1186px) {
+
+
+    article {
+
+        max-width: 600px;
+        width: 600px;
+        margin-right: 50px;
+        margin-left: 50px;
+
+    }
+
+    #cal123 {
+
+        width: 500px;
+        
+    }
+
+    aside {
+
+        width: 1000px;
+        margin-top: 30px;
+        margin-right: 50px;
+        margin-left: 50px;
+
+    }
+    
+    #cal123456 {
+
+        width: 530px;
+
+    }
+
+}
+
+@media (max-width: 1050px) {
+
+    .traço1-1 {
+
+        width: 800px;;
+        height: 8px;
+    }
+
+}
+
+@media (max-width: 850px) {
+
+    .traço1-1 {
+
+        width: 650px;;
+        height: 8px;
+    }
+
+    
+    article {
+
+        width: 500px;
+
+    }
+
+    #cal123 {
+
+        width: 500px;
+
+    }
+    
+    aside {
+
+        width: 600px;
+        height: 300px;
+
+    }
+
+    #cal123456 {
+
+        margin-top: 19px;
+        width: 440px;
+
+    }
+
+}
+
+@media (max-width: 550px) {
+
+    .traço1-1 {
+
+        width: 300px;;
+        height: 8px;
+    }
+
+}
